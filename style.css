@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+
+body {
+    background-color: pink;
+}
+
+.cont1 {
+    
+    flex-wrap: ;
+    margin: 500px;
+    background-color: black;
+    Width :1229px;
+    Height :543px;
+    border-radius: 24px;
+}
+
+.text {
+    Copy
+    width: 606px;
+    height: 38px;
+    color: white;
+    font-family: Inter;
+}
